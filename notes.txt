@@ -1,0 +1,12 @@
+What do I want my capstone to be about?
+Something that resonates with me
+Nature
+Stories of encounters in nature, whether they are with people, animals, weather, or self.
+A collection of stories, picture links, ideas and lessons that come whn spedning time in and observing nature.
+
+what would that look like?  It could be simlar to the database we created.
+option to add comments? Likes?
+
+HomeGrown:  Stories of learning adn growth obtained by observing nature.  Earth is our home.  Pleanet Earth, the biggest chunk of nature that we inhabit, is home.
+
+GitRepo: HomeGrown
